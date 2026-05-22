@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/codingsaitama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingsaitama" height="30" width="40" /></a>
 <a href="https://fb.com/allen.unicruz.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="allen.unicruz.7" height="30" width="40" /></a>
-<a href="https://instagram.com/saitama.coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saitama.coding" height="30" width="40" /></a>
+<a href="https://www.instagram.com/alienlabs015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saitama.coding" height="30" width="40" /></a>
 </p>
 
 
